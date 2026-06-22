@@ -1,0 +1,11 @@
+v1,v2
+ham,Hello how are you?
+spam,Congratulations! You have won $1000.
+ham,See you tomorrow.
+spam,Claim your free gift now!
+ham,Good morning.
+spam,Limited time offer click now!
+ham,Are you coming to class today?
+spam,You have won a free iPhone!
+ham,Meet me at 5 PM.
+spam,Click here to claim your reward!
